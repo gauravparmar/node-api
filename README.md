@@ -2,9 +2,10 @@
 
 ## NOTE :
 
-### 1. Refer "API call screenshots" folder for sample API call screenshots
-### 2. All data is saved in data.txt file
-### 3. Use /api endpoint to access APIs
+### 1. run "npm install" before using this project to install required node modules
+### 2. Refer "API call screenshots" folder for sample API call screenshots
+### 3. All data is saved in data.txt file
+### 4. Use /api endpoint to access APIs
 
 ## API information :
 
